@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="full9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/google_api_headers/intermediates/full_jar/release/full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

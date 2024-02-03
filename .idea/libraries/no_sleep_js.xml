@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="no_sleep.js">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/wakelock_plus/assets/no_sleep.js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

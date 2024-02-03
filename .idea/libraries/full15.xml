@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="full15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/permission_handler_android/intermediates/full_jar/release/full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

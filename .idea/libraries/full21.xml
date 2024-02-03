@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="full21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/package_info_plus/intermediates/full_jar/release/full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="assets1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/html_editor_enhanced/assets/summernote.html.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/html_editor_enhanced/assets/jquery.min.js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/html_editor_enhanced/assets/summernote-no-plugins.html.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/html_editor_enhanced/assets/summernote-lite-dark.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/html_editor_enhanced/assets/summernote-lite.min.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/packages/html_editor_enhanced/assets/summernote-lite.min.js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

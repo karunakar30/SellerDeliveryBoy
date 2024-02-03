@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nightMode.json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/mapTheme/nightMode.json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

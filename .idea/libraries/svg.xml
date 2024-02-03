@@ -1,0 +1,67 @@
+<component name="libraryTable">
+  <library name="svg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/home_active_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/products.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/file_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_delivered.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_shipped.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/privacy_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/sold_out_products.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/hide_password.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/description_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_all_orders.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/orders_active_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/orders.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/default_user.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/home_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/category_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/rate_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/logout_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/mail_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/low_stock_products.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/orders_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/balance.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_cancelled.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/profile_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/show_password.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/search_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/orders_status_all_orders.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/logo.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/delete_user_account_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/category_active_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/address_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/phone_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/profile_active_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_payment_pending.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/translate_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/home_active_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/category_active_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/edit_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/profile_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_received.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_returned.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/select_categories.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/orders_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/splash_logo.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/location_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/terms_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_out_for_delivery.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/home_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/order_status_processed.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/settings.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/user_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/contact_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/theme_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/category_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/about_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/profile_active_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/orders_active_dark_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/password_icon.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/date_picker.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/out/assets/flutter_assets/assets/svg/placeholder.svg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

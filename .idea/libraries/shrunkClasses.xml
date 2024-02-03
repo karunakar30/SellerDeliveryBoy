@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shrunkClasses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/flutter_inappwebview/intermediates/shrunk_classes/release/shrunkClasses.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

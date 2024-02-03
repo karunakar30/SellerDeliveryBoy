@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-package_info_plus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/package_info_plus/intermediates/merged_java_res/release/feature-package_info_plus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

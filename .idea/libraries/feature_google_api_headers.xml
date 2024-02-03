@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-google_api_headers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/google_api_headers/intermediates/merged_java_res/release/feature-google_api_headers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

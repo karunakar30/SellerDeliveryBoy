@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-geocoding_android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/geocoding_android/intermediates/merged_java_res/release/feature-geocoding_android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

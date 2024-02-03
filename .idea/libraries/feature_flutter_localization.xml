@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-flutter_localization">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/flutter_localization/intermediates/merged_java_res/release/feature-flutter_localization.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
